@@ -5,5 +5,13 @@
   <groupId>com.sedmelluq</groupId>
   <artifactId>lavaplayer-ext-format-xm</artifactId>
   <version>0.1.1</version>
+  <dependencies>
+    <dependency>
+      <groupId>com.github.micromod</groupId>
+      <artifactId>ibxm</artifactId>
+      <version>a74</version>
+      <scope>runtime</scope>
+    </dependency>
+  </dependencies>
   <description>POM was created from install:install-file</description>
 </project>
