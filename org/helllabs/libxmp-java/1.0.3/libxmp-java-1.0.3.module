@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.helllabs",
+    "module": "libxmp-java",
+    "version": "1.0.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libxmp-java-1.0.3.jar",
+          "url": "libxmp-java-1.0.3.jar",
+          "size": 1220139,
+          "sha512": "812fe63d64f8844afc144f30b80b3f8e5cea76588af50edac4483a6d5a6a2467e608bd79149bad03c53044bf63a0fa72261eaf82589560e1c10a7974a384f0dc",
+          "sha256": "eecfdbc74eca867abfe70b96bbab72f39b181558134661b95911538392979e36",
+          "sha1": "4c3b4658eb9535e685a1c8030d844552baf550a1",
+          "md5": "19ac5bbef3cd7c54a2ce08c6aa6e086e"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libxmp-java-1.0.3.jar",
+          "url": "libxmp-java-1.0.3.jar",
+          "size": 1220139,
+          "sha512": "812fe63d64f8844afc144f30b80b3f8e5cea76588af50edac4483a6d5a6a2467e608bd79149bad03c53044bf63a0fa72261eaf82589560e1c10a7974a384f0dc",
+          "sha256": "eecfdbc74eca867abfe70b96bbab72f39b181558134661b95911538392979e36",
+          "sha1": "4c3b4658eb9535e685a1c8030d844552baf550a1",
+          "md5": "19ac5bbef3cd7c54a2ce08c6aa6e086e"
+        }
+      ]
+    }
+  ]
+}
